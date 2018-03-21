@@ -1,7 +1,7 @@
 # DSZI-2018
 # Projekt na zajęcia ze sztucznej inteligencji 
 
-[![N|Solid](http://ggawronski.pl/Image.jpeg)](https://ggawronski.pl)
+[![N|Solid](http://ggawronski.pl/a.jpg)](https://ggawronski.pl)
 # Instrukcja obsługi programu
 1.
 
